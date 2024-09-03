@@ -81,7 +81,7 @@ a.button-1{
   background: linear-gradient(to right,#3e7327 ,#77b55a);
   background-color: #3e7327;
   color: #fff;
-  font-family: Trebuchet MS;
+  font-family: Trebuchet;
   font-size: 26px;
   font-weight: 800;
   font-style: normal;
@@ -139,7 +139,7 @@ a.button-1{
   display: grid;
   grid-template-columns: 20% 80%;
   grid-template-rows: 3em 6em;
-  font-size: 180;
+  font-size: 180%;
 }
 .cta2-1 {
   grid-row: 2 / 4;
@@ -182,7 +182,7 @@ a.button-1{
   color: rgb(0, 28, 64);
   width: 700px;
   background: rgb(194, 204, 0) none repeat scroll 0% 0% / auto padding-box border-box;
-  border-color: rgb(194, 204, 0);
+  border-color: rgb(195, 204, 0);
   border-width: 2px;
   border-style: solid;
 }
